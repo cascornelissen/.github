@@ -13,7 +13,7 @@ assignees: ''
 <!-- What would you expect to happen? -->
 
 **Actual behavior**
-<!-- What is actually happening? -->
+<!-- What is actually happening? Include a stack trace if available -->
 
 **System information**
 <!-- Execute the following command and include the output -->
